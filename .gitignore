@@ -1,0 +1,3 @@
+/testlogs/*.log
+/shmipc-testhelper
+*.out
